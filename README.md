@@ -41,3 +41,9 @@ Flex-grow E Flex-shrink
 Ambas são utilizadas para o reajuste dos elementos e são usadas no container filho, básicamente podemos chamar de comportamento.
 
 Flex-grow é usada para indicar que o elemento pode crescer de acordo com o tamnho da tela, já o flex-shrink é o oposto, não cresce encolhe de acordo a tela.
+
+flex-wrap e align-Content
+
+Flex-wrap é usado para dar quedra de linha quando os elementos ocupam mais de uma linha.
+
+Align-content é usado para alinhar os elemnetos quando eles estão em mais de uma linha quebrada e possui as mesmas propriedades do justify-content.

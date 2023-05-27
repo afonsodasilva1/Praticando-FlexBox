@@ -4,11 +4,11 @@ html, body, #app{
 }
 #app{
     display: flex;
+    flex-wrap: wrap-reverse;
 }
 .box{
-    width: 300px;
+    width: 200px;
     height: 60px;
     background: #f00;
     margin: 5px;
-    flex: 1;
 }
