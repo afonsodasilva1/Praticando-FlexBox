@@ -35,3 +35,9 @@ Ex.:
     align-items: center;
     justify-content: space-around;
 }
+
+Flex-grow E Flex-shrink
+
+Ambas são utilizadas para o reajuste dos elementos e são usadas no container filho, básicamente podemos chamar de comportamento.
+
+Flex-grow é usada para indicar que o elemento pode crescer de acordo com o tamnho da tela, já o flex-shrink é o oposto, não cresce encolhe de acordo a tela.
