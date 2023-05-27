@@ -47,3 +47,19 @@ flex-wrap e align-Content
 Flex-wrap é usado para dar quedra de linha quando os elementos ocupam mais de uma linha.
 
 Align-content é usado para alinhar os elemnetos quando eles estão em mais de uma linha quebrada e possui as mesmas propriedades do justify-content.
+
+Order
+
+Order é uma propriedade usada para ordenar os elementos. Ex.:
+.red{
+    background: #f00;
+    order: 1;
+}
+.green{
+    background: #0f0;
+    order: 2;
+}
+.blue{
+    background: #00f;
+    order: 0;
+}
